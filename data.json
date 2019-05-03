@@ -1,0 +1,28 @@
+{
+    "1":{
+        "Formule":"CH4",
+        "Type":"R",
+        "Coeff":1,
+        "n":1e-5
+    },
+    "2":{
+        "Formule":"O2",
+        "Type":"R",
+        "Coeff":2,
+        "n":1e-5
+    },
+    "3":{
+        "Formule":"CO2",
+        "Type":"P",
+        "Coeff":1,
+        "n":0.00
+    },
+    "4":{
+        "Formule":"H2O",
+        "Type":"P",
+        "Coeff":2,
+        "n":0.00
+    }
+}
+
+

@@ -1,0 +1,20 @@
+{
+    "1":{
+        "Formule":"N2",
+        "Type":"R",
+        "Coeff":1,
+        "n":1e-12
+        },
+     "2":{
+        "Formule":"H2",
+        "Type":"R",
+        "Coeff":3,
+        "n":3e-12
+        },
+     "3":{
+        "Formule":"NH3",
+        "Type":"P",
+        "Coeff":2,
+        "n":0e0
+     }
+}
