@@ -14,7 +14,7 @@ Building a python standalone.app
 	       >}
 		   => "1","2"...  the id of the specie
 		   => then you enter the formula as describe in chempy 
-		   => "R" or "P" stand for Reactif & Produit 
+		   => "R" or "P" stands for Reactif & Produit 
 		   => then the stoechiometric ratio as integer
 		   => finally the inital amount of substance and so on
 	   
