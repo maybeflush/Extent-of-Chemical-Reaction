@@ -21,3 +21,4 @@ Building a python standalone.app
 	4. Datas.json, Datas1.json are two examples
 	5. Setup.py to build a standalone app on macos
 	6. chem.json is the "db"
+	7 avancement.py with french comments ;(
